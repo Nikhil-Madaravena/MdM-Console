@@ -1,4 +1,4 @@
-# Customer 360 — Data Integration & Master Data Management
+# MdM Console — Data Integration & Master Data Management
 
 A data integration and customer master-data platform that consolidates fragmented customer records from multiple banking systems into a unified **Customer 360** view.
 
